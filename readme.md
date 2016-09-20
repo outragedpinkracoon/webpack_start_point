@@ -1,4 +1,4 @@
-Simple webpack starter point.
+Simple webpack starter point. Includes Handlebars and PostCSS.
 
 Install webpack first (npm install webpack)
 
